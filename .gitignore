@@ -1,0 +1,7 @@
+*~
+./python/jobarray/data
+./python/jobarray/logs
+./matlab/jobarray/data
+./matlab/jobarray/logs
+./r/jobarray/data
+./r/jobarray/logs
