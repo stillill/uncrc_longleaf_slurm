@@ -1,0 +1,31 @@
+
+  ___  ____  ____  ____  ____ (R)
+ /__    /   ____/   /   ____/
+___/   /   /___/   /   /___/   14.1   Copyright 1985-2015 StataCorp LP
+  Statistics/Data Analysis            StataCorp
+                                      4905 Lakeway Drive
+     Special Edition                  College Station, Texas 77845 USA
+                                      800-STATA-PC        http://www.stata.com
+                                      979-696-4600        stata@stata.com
+                                      979-696-4601 (fax)
+
+125-user Stata network license expires 23 Jul 2019:
+       Serial number:  401509200352
+         Licensed to:  UNC-CH
+                       Chapel Hill NC
+
+Notes:
+      1.  Stata is running in batch mode.
+      2.  Unicode is supported; see help unicode_advice.
+      3.  Maximum number of variables is set to 5000; see help set_maxvar.
+
+
+running /nas/longleaf/apps/stata/14/sysprofile.do ...
+
+. do myscript 5 
+
+. display "The first argument is: `1'"
+The first argument is: 5
+
+. 
+end of do-file
